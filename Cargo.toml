@@ -1,0 +1,8 @@
+[package]
+name = "image-base64"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+urlencoding = "2.1.3"
